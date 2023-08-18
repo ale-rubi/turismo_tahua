@@ -1,0 +1,73 @@
+/* CSS styles for the landing page */
+body {
+  font-family: "Raleway", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+.navbar {
+  padding: 0rem 1rem;
+  margin: 0px;
+}
+.logo1 {
+  height: 90px;
+}
+.header {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+.header h1 {
+  font-family: "Orelega One", cursive;
+  font-size: 24px;
+  margin: 10px;
+}
+.carousel-item {
+  height: 400px;
+}
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+.mapa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: center;
+  margin: 15px;
+}
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin: 5px;
+}
+.card-img-top-1 {
+  height: 330px;
+  background-image: url(https://cdn.glitch.global/05245653-5d4a-4c59-bbf4-6299823e0c15/Captura%207.PNG?v=1689279388666);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-2 {
+  height: 330px;
+  background-image: url(https://cdn.glitch.global/05245653-5d4a-4c59-bbf4-6299823e0c15/Captura%205.PNG?v=1689279390682);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-3 {
+  height: 330px;
+  background-image: url(https://cdn.glitch.global/05245653-5d4a-4c59-bbf4-6299823e0c15/Captura%206.PNG?v=1689279393045);
+  background-size: cover;
+  background-position: center;
+}
+.cover {
+  height: 400px;
+  margin:15px;
+}
+.footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  text-align: center;
+}
+
